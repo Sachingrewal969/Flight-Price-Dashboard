@@ -19,10 +19,15 @@ The **Flight Search and Analytics System** is a user-friendly dashboard that all
 
 ## Features
 **Flight Search:** Enter source and destination cities to view available flights with details like airline, flight number, departure time, arrival time, duration, and price.
+
 **Real-time Data Display:** Flights are shown in a structured table for easy comparison.
+
 **Accurate Time Formatting:** Departure and arrival times are displayed in an intuitive **AM/PM** format.
+
 **Average Flight Duration Analysis:** Displays **airline-wise average flight durations**, formatted to two decimal places with 'h' appended.
+
 **Error Handling:** Prevents searching for flights between the same city, displaying a **"No flights available"** message when applicable.
+
 **Interactive UI:** Built using **Streamlit**, offering a responsive and user-friendly interface.
 
 ---
